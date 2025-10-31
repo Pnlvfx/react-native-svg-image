@@ -32,6 +32,7 @@
     "README.md"
   ],
   "devDependencies": {
+    "@goatjs/dbz": "^1.37.0",
     "@goatjs/node": "^1.37.0",
     "@goatjs/node-eslint": "^1.19.0",
     "@goatjs/rimraf": "^1.37.0",
