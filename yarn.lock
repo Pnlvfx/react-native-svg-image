@@ -3478,9 +3478,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-svg-image@workspace:.":
+"react-native-turbo-svg@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-native-svg-image@workspace:."
+  resolution: "react-native-turbo-svg@workspace:."
   dependencies:
     "@goatjs/node": "npm:^1.37.0"
     "@goatjs/node-eslint": "npm:^1.19.0"
