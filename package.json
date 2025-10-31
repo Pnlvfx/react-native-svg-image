@@ -32,7 +32,6 @@
     "README.md"
   ],
   "devDependencies": {
-    "@goatjs/dbz": "^1.37.0",
     "@goatjs/node": "^1.37.0",
     "@goatjs/node-eslint": "^1.19.0",
     "@goatjs/rimraf": "^1.37.0",
@@ -41,6 +40,7 @@
     "@react-native/metro-config": "^0.82.1",
     "@types/node": "^24.9.2",
     "eslint": "^9.38.0",
+    "husky": "^9.1.7",
     "metro": "^0.83.3",
     "prettier": "^3.6.2",
     "sharp": "^0.34.4",
